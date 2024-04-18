@@ -1,9 +1,11 @@
 <div align="center">
- <div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
+ <div style="display: flex; justify-content: space-between; align-items: left;">
+    <div align="left">
       Im Ji from Berlin. You can find some of my projects and code here on GitHub, but only about 10%. <br> I also have a bunch of Python AI stuff, games, Houdini projects which is not available here.<br> I like to ride bikes, I like synthesizers, kung fu and im a huge vs code enthusiast :D
     </div>
-    <img src="https://github.com/ji-soft/ji-soft/blob/main/result1709804787-ezgif.com-resize.gif?raw=true" object-fit="contain" width="50" />
+ <div align="right">
+   <img src="https://github.com/ji-soft/ji-soft/blob/main/result1709804787-ezgif.com-resize.gif?raw=true" object-fit="contain" width="150" />
+  </div>
  </div>
 </div>
 
