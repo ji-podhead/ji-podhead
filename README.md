@@ -7,10 +7,16 @@
  </div>
 </div>
 <br>
-<div align="center">
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<div>
+ 
  **currently working on:**
 </div>
+<div>
+      
+</div>
+</div>
+
 <div align="center">
  <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github.com/ji-soft/kubyplexer/blob/main/images/kubyplexernobg.jpg?raw=true" width="90" />
