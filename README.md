@@ -1,14 +1,5 @@
 <div align="center">
- <div style="display: flex; flex-direction: column; align-items: center;">
 
-  <div align="left" >
-      Hi, Im Ji from Berlin. <br>You can find some of my projects and code here on GitHub, but only about 10%. <br> I also have a bunch of Python AI stuff, games, Houdini projects which is not available here.<br> I like to ride bikes, I like synthesizers, kung fu and im a huge vs code enthusiast :D
-    </div></div>
- </div>
-</div>
-<br>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<div>
  
  **currently working on:**
 </div>
