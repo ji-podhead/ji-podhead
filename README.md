@@ -1,9 +1,9 @@
 <div align="center">
  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/ji-podhead/protobuffctl">  
+    <a href="https://github.com/ji-podhead/kubyplexer">  
     <img src="https://github.com/ji-soft/kubyplexer/blob/main/images/kubyplexernobg.jpg?raw=true" align="left" width="90" />
     </a>
-     <a href="https://github.com/ji-podhead/protobuffctl">  
+     <a href="https://github.com/ji-podhead/ji_ui">  
   <img src="https://github.com/ji-soft/ji_ui/blob/master/images/ji_ui_mascot_3.png?raw=true" align="center" width="100" />
      </a>
      <a href="https://github.com/ji-podhead/protobuffctl">
