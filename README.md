@@ -18,6 +18,7 @@
 - [Network Guide](https://github.com/ji-podhead/Network-Guides/tree/main) 
 > - how to setup DHCP & DNS with Dynamic Updates using RNCD
 > - DNS Attackvectors & Protection
+> - DHCP Attackvectors & Protection
 > - ssl with certmanager & letsencrypt 
 > - Network Storage (ZFS, ISCSI & CEPH)
 > - loadbalancers, proxies, reverseproxies (nginx & traefik)
