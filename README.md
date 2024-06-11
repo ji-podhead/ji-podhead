@@ -1,3 +1,5 @@
+## Current Projects
+
 <div align="center">
  <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://github.com/ji-podhead/kubyplexer">  
@@ -11,3 +13,14 @@
     </a>
  </div>
 </div>
+
+## Guides
+- [Network Guide](https://github.com/ji-podhead/Network-Guides/tree/main) 
+> - how to setup DHCP & DNS with Dynamic Updates using RNCD
+> - DNS Attackvectors & Protection
+> - ssl with certmanager & letsencrypt 
+> - Network Storage (ZFS, ISCSI & CEPH)
+> - loadbalancers, proxies, reverseproxies (nginx & traefik)
+> - k8s, salt & openstack
+- [Foreman Guide](https://github.com/ji-podhead/RHEL_9_Foreman_Guide/tree/main)
+> - everything you need to know about bare metal, pxe boot, foreman- configuration/installation and provisioning
