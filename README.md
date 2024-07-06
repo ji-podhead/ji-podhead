@@ -15,13 +15,29 @@
 </div>
 
 ## Guides
+
 - [Network Guide](https://github.com/ji-podhead/Network-Guides/tree/main) 
 > - how to setup DHCP & DNS with Dynamic Updates using RNCD
 > - DNS Attackvectors & Protection
-> - DHCP Attackvectors & Protection
-> - ssl with certmanager & letsencrypt 
 > - Network Storage (ZFS, ISCSI & CEPH)
-> - loadbalancers, proxies, reverseproxies (nginx & traefik)
-> - k8s, salt & openstack
+> - Web Security 
+> - DHCP Attackvectors & Protection🚧
+> - ssl with certmanager & letsencrypt🚧 
+> - loadbalancers, proxies, reverseproxies (nginx & traefik)🚧
+> - k8s, salt & openstack🚧
 - [Foreman Guide](https://github.com/ji-podhead/RHEL_9_Foreman_Guide/tree/main)
 > - everything you need to know about bare metal, pxe boot, foreman- configuration/installation and provisioning
+
+- [DevOps](https://github.com/ji-podhead/Network-Guides/tree/main) 
+> - ***JI-Podhead-Blog***
+> -  Static Website
+> -  Terraform IAC
+> -  Jenkins
+> - ***The Pod Shop 🚧***
+> -   dynamic website(react)
+> -   rtmp stream & forum
+> -   gRPC, Cassandra, Go & Python
+> -   Terraform IAC & k8s
+> -   jenkins & ArgoCd
+
+
