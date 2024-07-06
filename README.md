@@ -16,7 +16,7 @@
 
 ## Guides
 
-- [Network Guide](https://github.com/ji-podhead/Network-Guides/tree/main) 
+- [Networking](https://github.com/ji-podhead/Network-Guides/tree/main) 
 > - how to setup DHCP & DNS with Dynamic Updates using RNCD
 > - DNS Attackvectors & Protection
 > - Network Storage (ZFS, ISCSI & CEPH)
@@ -25,7 +25,7 @@
 > - ssl with certmanager & letsencrypt🚧 
 > - loadbalancers, proxies, reverseproxies (nginx & traefik)🚧
 > - k8s, salt & openstack🚧
-- [Foreman Guide](https://github.com/ji-podhead/RHEL_9_Foreman_Guide/tree/main)
+- [Foreman Provisioning](https://github.com/ji-podhead/RHEL_9_Foreman_Guide/tree/main)
 > - everything you need to know about bare metal, pxe boot, foreman- configuration/installation and provisioning
 
 - [DevOps](https://github.com/ji-podhead/Network-Guides/tree/main) 
