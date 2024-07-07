@@ -57,8 +57,8 @@
 <b>
 🚀 pytorch ⚛ react 💨 gRPC 
 <br> 😻 Podman 🧊 k8s 🧰 Proxmox
-<br> 👷‍♂️ terraform 👷‍♂️ Argo 👷‍♂️ packer 👷‍♂️ foreman 👷‍♂️
 <br> <div> 🐸 js 🐸 go 🐸 python 🐸 c# 🐸 rust 🐸</u>
+<br> 👷‍♂️ terraform 👷‍♂️ Argo 👷‍♂️ packer 👷‍♂️ foreman 👷‍♂️
 </b>
 </div>
 
