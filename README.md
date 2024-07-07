@@ -48,5 +48,9 @@
 >   -   jenkins & ArgoCd
 
 ---
+### My favourites
 
-
+🚀 pytorch ⚛ react 💨 gRPC 
+<br> 😻 Podman 🧊 k8s 🧰 Proxmox
+<br> 👷‍♂️ terraform 👷‍♂️ Argo 👷‍♂️ packer 👷‍♂️ foreman 👷‍♂️
+<br> 🐸 js 🐸 go 🐸 python 🐸 c# 🐸 rust 🐸
