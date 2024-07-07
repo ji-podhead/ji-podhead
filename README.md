@@ -21,10 +21,6 @@
 > - DNS Attackvectors & Protection
 > - Network Storage (ZFS, ISCSI & CEPH)
 > - Web Security 
-> - DHCP Attackvectors & Protection 🚧
-> - ssl with certmanager & letsencrypt 🚧 
-> - loadbalancers, proxies, reverseproxies (nginx & traefik) 🚧
-> - k8s, salt & openstack 🚧
 - [Foreman Provisioning](https://github.com/ji-podhead/RHEL_9_Foreman_Guide/tree/main)
 > - everything you need to know about bare metal, pxe boot, foreman- configuration/installation and provisioning
 
