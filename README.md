@@ -1,5 +1,9 @@
 
----
+<div align="center">
+      <img src="https://github.com/ji-podhead/ji-podhead/blob/main/logo.jpg?raw=true" align="right" width="150" />
+</div>
+
+
 
 ## Current Projects
 
@@ -46,19 +50,14 @@
 
 ---
 
-***i like i like***
-
 🚀 pytorch ⚛ react 💨 gRPC 
 <br> 😻 Podman 🧊 k8s 🧰 Proxmox
 <br> 👷‍♂️ terraform 👷‍♂️ Argo 👷‍♂️ packer 👷‍♂️ foreman 👷‍♂️
 <br> 🐸 js 🐸 go 🐸 python 🐸 c# 🐸 rust 🐸
 
 
----
 
 
-<div align="center">
-      <img src="https://github.com/ji-podhead/ji-podhead/blob/main/logo.jpg?raw=true" align="center" width="250" />
-</div>
+
 
 ---
