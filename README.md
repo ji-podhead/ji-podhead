@@ -1,6 +1,6 @@
 ---
 <div align="center">
-      <img src="https://github.com/ji-podhead/ji-podhead/blob/main/logo2.jpg?raw=true" align="center" width="150" />
+      <img src="https://github.com/ji-podhead/ji-podhead/blob/main/logo.jpg?raw=true" align="center" width="250" />
 </div>
 
 ---
