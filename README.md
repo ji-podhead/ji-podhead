@@ -1,13 +1,11 @@
 
-<div align="center">
-      <img src="https://github.com/ji-podhead/ji-podhead/blob/main/logo.jpg?raw=true" align="right" width="150" />
-</div>
 
 
 
-## Current Projects
+
 
 <div align="center">
+      <h3>Projects current</h3>
  <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://github.com/ji-podhead/kubyplexer">  
     <img src="https://github.com/ji-soft/kubyplexer/blob/main/images/kubyplexernobg.jpg?raw=true" align="left" width="90" />
@@ -48,13 +46,21 @@
 >   -   Terraform IAC & k8s
 >   -   jenkins & ArgoCd
 
----
+<div align="center">
+      <img src="https://github.com/ji-podhead/ji-podhead/blob/main/logo.jpg?raw=true" align="right" width="150" />
+</div>
 
+
+---
+***i like  i like***<br>
+<div align="center">
+<b>
 🚀 pytorch ⚛ react 💨 gRPC 
 <br> 😻 Podman 🧊 k8s 🧰 Proxmox
 <br> 👷‍♂️ terraform 👷‍♂️ Argo 👷‍♂️ packer 👷‍♂️ foreman 👷‍♂️
-<br> 🐸 js 🐸 go 🐸 python 🐸 c# 🐸 rust 🐸
-
+<br> <div> 🐸 js 🐸 go 🐸 python 🐸 c# 🐸 rust 🐸</u>
+</b>
+</div>
 
 
 
