@@ -1,9 +1,5 @@
----
-<div align="center">
-      <img src="https://github.com/ji-podhead/ji-podhead/blob/main/logo.jpg?raw=true" align="center" width="250" />
-</div>
 
----
+
 ## Current Projects
 
 <div align="center">
@@ -48,7 +44,10 @@
 >   -   jenkins & ArgoCd
 
 ---
-### My favourites
+
+<div align="center">
+      <img src="https://github.com/ji-podhead/ji-podhead/blob/main/logo.jpg?raw=true" align="center" width="250" />
+</div>
 
 🚀 pytorch ⚛ react 💨 gRPC 
 <br> 😻 Podman 🧊 k8s 🧰 Proxmox
