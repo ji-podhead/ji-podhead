@@ -2,6 +2,64 @@
 
 
 
+# Guides, Tools and how to 
+
+## [Networking](https://github.com/ji-podhead/Network-Guides/tree/main) *`Guide`*
+ - how to setup DHCP & DNS with Dynamic Updates using RNCD
+ - DNS Attackvectors & Protection
+ - Network Storage (ZFS, ISCSI & CEPH)
+
+---
+## [Foreman Provisioning](https://github.com/ji-podhead/RHEL_9_Foreman_Guide/tree/main) *`Guide`*
+ - everything you need to know about bare metal, pxe boot, foreman- configuration/installation and provisioning
+
+----
+
+## DevOps
+
+### [*`Guides`*](https://ji-podhead.github.io/DevOps/)
+- Terraform & Vault secret access via approle
+- Terraform & Proxmox (provider, cloudinit,auth)
+
+### [Projects](https://github.com/ji-podhead/DevOps/tree/main#projects)
+ ***JI-Podhead-Blog***
+-    Static Website 
+-    Terraform IAC 
+-    Jenkins
+  
+ ***The Pod Shop 🚧***
+-   dynamic website(react) 
+-   rtmp stream & forum 
+-   gRPC, Cassandra, Go & Python 
+-   Terraform IAC & k8s <
+-   jenkins & ArgoCd
+
+---
+
+## [Web & Cloud Security](https://github.com/ji-podhead/Web-And-CloudSecurity) *`Guide`*
+
+***Web Security***
+
+-    AttackVectors
+-    Types of Attack
+-    Free open source tools for compliance,e2e,intrusion detection,etc
+
+***Cloud Security***
+
+-   AttackVectors
+-   Tools for Compliance, e2e, ica code quality, monitoring, etc
+-   SIEM, Metrics, Logs & Continous Montioring
+
+
+
+
+
+---
+
+
+
+
+
 
 
 <div align="center">
@@ -24,50 +82,10 @@
 
 ---
 
-## Guides, Tools and how to 
-
-### [Networking](https://github.com/ji-podhead/Network-Guides/tree/main) 
- - how to setup DHCP & DNS with Dynamic Updates using RNCD
- - DNS Attackvectors & Protection
- - Network Storage (ZFS, ISCSI & CEPH)
- - Web Security
-
----
-### [Foreman Provisioning](https://github.com/ji-podhead/RHEL_9_Foreman_Guide/tree/main)
- - everything you need to know about bare metal, pxe boot, foreman- configuration/installation and provisioning
-
-----
-
-### DevOps
-
-#### [Guides](https://ji-podhead.github.io/DevOps/)
-- Terraform & Vault secret access via approle
-- Terraform & Proxmox (provider, cloudinit,auth)
-
-#### [Projects](https://github.com/ji-podhead/DevOps/tree/main#projects)
-- ***JI-Podhead-Blog***<br>
-   Static Website <br>
-   Terraform IAC <br>
-   Jenkins <br>
-- ***The Pod Shop 🚧***<br>
-    dynamic website(react) <br>
-    rtmp stream & forum <br>
-    gRPC, Cassandra, Go & Python <br>
-    Terraform IAC & k8s <br>
-    jenkins & ArgoCd
-
----
-
-#### [Cloud-, iac security/compliance & testing](https://github.com/ji-podhead/CloudSecurity-And-Testing)
-
- - free open source tools for compliance,e2e,intrusion detection,etc
-
 <div align="center">
       <img src="https://github.com/ji-podhead/ji-podhead/blob/main/logo.jpg?raw=true" align="right" width="150" />
 </div>
 
-
----
 ***i like  i like***<br>
 <div align="center">
 <b>
