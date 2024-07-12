@@ -45,11 +45,11 @@
 - Terraform & Proxmox (provider, cloudinit,auth)
 
 #### [Projects](https://github.com/ji-podhead/DevOps/tree/main#projects)
-- ***JI-Podhead-Blog***
+- ***JI-Podhead-Blog***<br>
    Static Website <br>
    Terraform IAC <br>
    Jenkins <br>
-- ***The Pod Shop 🚧***
+- ***The Pod Shop 🚧***<br>
     dynamic website(react) <br>
     rtmp stream & forum <br>
     gRPC, Cassandra, Go & Python <br>
