@@ -17,7 +17,7 @@
         <img src="https://github.com/ji-podhead/protobuffctl/blob/main/docs/protobuffctl.png?raw=true" align="right" width="100" />
     </a>
  </div>
- <a href="https://github.com/ji-podhead/protobuffctl">
+ <a href="https://github.com/ji-podhead/DevOps">
         <img src="https://github.com/ji-podhead/DevOps/blob/main/pod-shop-infrastructure.png?raw=true" align="center" width="600" />
     </a>
 </div>
@@ -34,7 +34,7 @@
 - [***Foreman Provisioning***](https://github.com/ji-podhead/RHEL_9_Foreman_Guide/tree/main)
 > - everything you need to know about bare metal, pxe boot, foreman- configuration/installation and provisioning
 
-- [***DevOps***](https://github.com/ji-podhead/Network-Guides/tree/main) 
+- [***DevOps***](https://github.com/ji-podhead/Devops) 
 > - ***JI-Podhead-Blog***
 >   -  Static Website
 >   -  Terraform IAC
