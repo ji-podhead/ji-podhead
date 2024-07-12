@@ -21,7 +21,7 @@
     </a>
 </div>
 
-# Guides, Tools and how to 
+# Guides, Personal Research, CheatSheets and Tools
 
 ## [Networking](https://github.com/ji-podhead/Network-Guides/tree/main) *`Guide`*
  - how to setup DHCP & DNS with Dynamic Updates using RNCD
