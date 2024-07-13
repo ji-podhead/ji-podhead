@@ -1,11 +1,20 @@
 
 
-
----
+<div align="center">
+      <img src="https://github.com/ji-podhead/ji-podhead/blob/main/logo.jpg?raw=true" align="right" width="50" />
+</div>
 
 <div align="center">
-      <h2> Current Projects</h2>
- <div style="display: flex; flex-direction: column; align-items: center;">
+<table>
+  <tr>
+    <tr>
+    <td>
+      <table>
+    <!-- MAIN TABLE -->
+      <tr>
+<div align="center">
+      <h3> Current Projects</h3>
+ <div style="display: flex; flex-direction: row; align-items: center;">
     <a href="https://github.com/ji-podhead/kubyplexer">  
     <img src="https://github.com/ji-soft/kubyplexer/blob/main/images/kubyplexernobg.jpg?raw=true" align="left" width="90" />
     </a>
@@ -16,58 +25,124 @@
         <img src="https://github.com/ji-podhead/protobuffctl/blob/main/docs/protobuffctl.png?raw=true" align="right" width="100" />
     </a>
  </div>
- <a href="https://github.com/ji-podhead/DevOps">
-        <img src="https://github.com/ji-podhead/DevOps/blob/main/pod-shop-infrastructure.png?raw=true" align="center" width="600" />
-    </a>
+</div>
+      </tr>
+    </tr>
+    <table>
+    <!-- Guide TABLE -->
+    <tr><th colspan="3" style="text-align:left;"># Personal Research, CheatSheets,Guides & Tools</th>
+   <tr>
+   <td style="text-align:left; margin: 0 auto;">
+         <h4>Networking</h4>
+         <u><b>🌐 DNS 🌐</b></u>
+         <div align="left;">
+         <br><a href="https://ji-podhead.github.io/Network-Guides/DNS/Knowledge%20Base">1. Knowledge Base</a>
+         <br><a href="https://ji-podhead.github.io/Network-Guides/DNS/install">2. install</a>
+         <br><a href="https://ji-podhead.github.io/Network-Guides/DNS/testAndDebug">3. debug</a>
+         <br><a href="https://ji-podhead.github.io/Network-Guides/DNS/Dynmaic_Updates_%26_RNDC">4. Dynamic Updates & RNDC</a>
+         <br><a href="https://ji-podhead.github.io/Network-Guides/DNS/attackVectorsAndScenario">5. attack vectors</a>
+         <br><a href="https://ji-podhead.github.io/Network-Guides/DNS/protection">6. protection</a><br><li> how to protect your DNS using TSIG, dnssec</li>
+         <br><u><b>💾 Storage 💾</b></u>
+         <br><a href="https://ji-podhead.github.io/Network-Guides/storage/Knowledge%20Base/">1. Knowledge Base</a>
+         <br><a href="https://ji-podhead.github.io/Network-Guides/storage/zfs&proxmox/">2. ZFS Pool in Proxmox</a>
+         <br><a href="https://ji-podhead.github.io/Network-Guides/storage/iscsi/">3. ISCSI synced with Proxmox using SCST-project</a>
+      </div>
+      </td>
+      <td>
+      </td>
+        <!-- WEBS & CLOUD ECURITY -->
+      <td colspan="2">
+            <div align="left;">
+         <h4>Foreman Provisioning</h4>
+         Install (puppet, katello & discovery plugin).<br> External DHCP- and TFTP-Server. Boot Image & PXE.
+         <br> 1. <a href="https://ji-podhead.github.io/RHEL_9_Foreman_Guide/knowledge%20base">Knowledge Base</a>
+         <br> 2. <a href="https://ji-podhead.github.io/RHEL_9_Foreman_Guide/installation%20(katello%2Cdiscovery%2Cdhcp%2Ctftp)">Install Foreman (with katello, discovery-plugin, and local dhcp/tftp)</a>
+         <br> 3. <a href="https://ji-podhead.github.io/RHEL_9_Foreman_Guide/discovery%20and%20provisioning">Discovery and Provisioning</a><li>Boot Image, Hostgroups, subnets, discovery & provision</li>
+          4. <a href="https://ji-podhead.github.io/RHEL_9_Foreman_Guide/libvirt">install and setup libvirt in Foreman</a> <li>libvirt as compute resource</li>
+         5. <a href="https://ji-podhead.github.io/RHEL_9_Foreman_Guide/proxmox">Proxmox</a><li>proxmox compute resource in foreman</li>
+         6. <a href="https://ji-podhead.github.io/RHEL_9_Foreman_Guide/nestedVM_with_external_DHCP%26DNS">Install Foreman with external DHCP & DNS</a>
+            </div>
+            </td>
+   </tr>
+   </table>
+   <table>
+         <tr>
+            <tr>
+            <td>
+               <table>
+            <!-- WEBSECURITY -->
+            <th colspan="1" style="text-align:center;">Web Security</th>
+            </tr>
+               <tr>
+                  <td>
+                     <a href="https://ji-podhead.github.io/Web-And-CloudSecurity/AttackVectors">Attack Vectors</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td>
+                     <a href="https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/AttackTypes">Attack Types</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td>
+                     <a href="https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/Tools">Tools</a>
+                  </td>
+               </tr>
+               </table>
+            </td>
+            <td>
+            <!-- CLOUDSECURITY -->
+               <table>
+            <th colspan="1" style="text-align:center;">Cloud Security</th>
+            </tr>
+               <tr>
+                  <td>
+                     <a href="https://ji-podhead.github.io/Web-And-CloudSecurity/AttackVectors/#cloud-bases-attack-vectors">Attack Vectors</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td>
+                     <a href="https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity/Tools">Tools</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td>
+                     <a href="https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity/Monitoring">Monitoring</a>
+                  </td>
+               </tr>
+               </table>
+            </td>
+                  <td>
+            <!-- DevOps -->
+               <table>
+            <th colspan="1" style="text-align:center;">DevOps</th>
+            </tr>
+               <tr>
+                  <td>
+                    <a href="https://github.com/ji-podhead/ji-podhead-blog">Static Website</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td>
+                     <a href="https://ji-podhead.github.io/DevOps/guides/terraform&vault/">TerrForm & Vault</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td>
+                     <a href="https://ji-podhead.github.io/DevOps/guides/terraform%26proxmox">Terraform & Proxmox</a>
+                  </td>
+               </tr>
+               </table>
+            </td>
+         </tr>
+         </table>
+   </table>
+    </td>
+    </tr>
+</table>
 </div>
 
-# Guides, Personal Research, CheatSheets and Tools
-
-## [Networking](https://github.com/ji-podhead/Network-Guides/tree/main) *`Guide`*
- - how to setup DHCP & DNS with Dynamic Updates using RNCD
- - DNS Attackvectors & Protection
- - Network Storage (ZFS, ISCSI & CEPH)
-
----
-## [Foreman Provisioning](https://github.com/ji-podhead/RHEL_9_Foreman_Guide/tree/main) *`Guide`*
- - everything you need to know about bare metal, pxe boot, foreman- configuration/installation and provisioning
-
-----
-
-## DevOps
-
-### [*`Guides`*](https://ji-podhead.github.io/DevOps/)
-- Terraform & Vault secret access via approle
-- Terraform & Proxmox (provider, cloudinit,auth)
-
-### [Projects](https://github.com/ji-podhead/DevOps/tree/main#projects)
- ***JI-Podhead-Blog***
--    Static Website 
--    Terraform IAC 
--    Jenkins
-  
- ***The Pod Shop 🚧***
--   dynamic website(react) 
--   rtmp stream & forum 
--   gRPC, Cassandra, Go & Python 
--   Terraform IAC & k8s <
--   jenkins & ArgoCd
-
----
-
-## [Web & Cloud Security](https://github.com/ji-podhead/Web-And-CloudSecurity) *`Guide`*
-
-***Web Security***
-
--    AttackVectors
--    Types of Attack
--    Free open source tools for compliance,e2e,intrusion detection,etc
-
-***Cloud Security***
-
--   AttackVectors
--   Tools for Compliance, e2e, ica code quality, monitoring, etc
--   SIEM, Metrics, Logs & Continous Montioring
+               
 
 
 
