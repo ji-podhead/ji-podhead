@@ -98,6 +98,11 @@
                         <a href="https://ji-podhead.github.io/DevOps/guides/terraform%26proxmox">Terraform & Proxmox</a>
                     </td>
                 </tr>
+                <tr>
+                    <td>
+                        <a href="https://ji-podhead.github.io/DevOps/automatic_checks">static configuration scanners, Rules, and Test Results</a>
+                    </td>
+                </tr>
             </table>
         </td>
       </div>
