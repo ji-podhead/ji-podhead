@@ -178,9 +178,6 @@
             </tr>
       <tr>
             <tr>
-              <th colspan="2" align="center">Languages & Frameworks</th>
-                               </tr>
-            <tr>
             <td colspan="2"> 
                   <div align="center">
                   <b>🚀 LETS GO 🚀</b>
