@@ -183,7 +183,7 @@
             <tr>
             <td colspan="2"> 
                   <div align="center">
-                  <b>🚀 LETS GO 🚀 gRPC</b>
+                  <b>🚀 LETS GO 🚀</b>
                   </div>
                   </td>
             </tr>
