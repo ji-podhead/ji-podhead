@@ -183,10 +183,7 @@
             <tr>
             <td colspan="2"> 
                   <div align="center">
-                  <b>🚀 pytorch ⚛ react 💨 gRPC</b>
-                  <br><b>🐸 js 🐸 go 🐸 python 🐸 c# 🐸 rust 🐸</b>
-                  <br><b>😻 Podman 🧊 k8s 🧰 Proxmox 💡 libvirt/kvm </b>
-                  <br><b>👷‍♂️ ansible 👷‍♂️ terraform 👷‍♂️ jenkins 👷‍♂️ vault 👷‍♂️ Argo 👷‍♂️ packer 👷‍♂️ foreman 👷‍♂️</b>
+                  <b>🚀 LETS GO 🚀 gRPC</b>
                   </div>
                   </td>
             </tr>
