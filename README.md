@@ -1,16 +1,29 @@
-```json
-                                                +---[RSA 2048]----+
-                                                |.+JI*.           |
-                                                |= .+..=          |
-                                                |.   .+ .         |
-                                                |.  Po d          |
-                                                |.  h . .         |
-                                                |.  .+ e +..      |
-                                                | . +=.=.a=       |
-                                                |  ..+*+=+..d     |
-                                                |   .+.***.+.     |
-                                                +----[SHA256]-----+
-```
+<table>
+<!-- MAIN TABLE -->
+<tr>
+<td>
+<a href="https://github.com/ji-podhead/kubyplexer">
+<img src="https://github.com/ji-podhead/ji-podhead/blob/main/OIG2.jpg?raw=true" align="left" width="400" />
+</a>
+</td>
+<td>
+<pre>
+<span style="color: #FF6347;">+---[RSA 2048]----+</span>
+<span style="color: #4682B4;">|.+.JI*.          |</span>
+<span style="color: #32CD32;">|= .+..=          |</span>
+<span style="color: #FFD700;">|.   .+ .         |</span>
+<span style="color: #40E0D0;">|.  Po d          |</span>
+<span style="color: #EE82EE;">|.  h . .         |</span>
+<span style="color: #8A2BE2;">|.  .+ e +..      |</span>
+<span style="color: #FF4500;">| . +=.=.a=       |</span>
+<span style="color: #ADFF2F;">|  ..+*+=+..d     |</span>
+<span style="color: #FFDAB9;">|   .+.***.+.     |</span>
+<span style="color: #DA70D6;">+----[SHA256]-----+</span>
+</pre>
+</td>
+</tr>
+</table>
+  
 <div align="left">
     <table>
         <tr><th align="center">currently working on</th>
