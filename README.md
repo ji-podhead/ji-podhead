@@ -3,7 +3,7 @@
 <tr>
 <td>
 <a href="https://github.com/ji-podhead/kubyplexer">
-<img src="https://github.com/ji-podhead/ji-podhead/blob/main/OIG2.jpg?raw=true" align="left" width="400" />
+<img src="https://github.com/ji-podhead/ji-podhead/blob/main/OIG2.jpg?raw=true" align="left" width="700" />
 </a>
 </td>
 <td>
